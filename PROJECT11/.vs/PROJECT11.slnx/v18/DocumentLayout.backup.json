@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|c:\\users\\ssd_squad\\source\\repos\\project11\\project11\\controllers\\trianglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|solutionrelative:project11\\controllers\\trianglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|c:\\users\\ssd_squad\\source\\repos\\project11\\project11\\models\\trianglerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|solutionrelative:project11\\models\\trianglerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|c:\\users\\ssd_squad\\source\\repos\\project11\\project11\\models\\triangleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|solutionrelative:project11\\models\\triangleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|c:\\users\\ssd_squad\\source\\repos\\project11\\project11\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C1B227-5FE0-49F8-8ABA-5878E647F4A8}|PROJECT11\\PROJECT11.csproj|solutionrelative:project11\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriangleController.cs",
+              "DocumentMoniker": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Controllers\\TriangleController.cs",
+              "RelativeDocumentMoniker": "PROJECT11\\Controllers\\TriangleController.cs",
+              "ToolTip": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Controllers\\TriangleController.cs",
+              "RelativeToolTip": "PROJECT11\\Controllers\\TriangleController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:00:28.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriangleResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\TriangleResponse.cs",
+              "RelativeDocumentMoniker": "PROJECT11\\Models\\TriangleResponse.cs",
+              "ToolTip": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\TriangleResponse.cs",
+              "RelativeToolTip": "PROJECT11\\Models\\TriangleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:58:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriangleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\TriangleRequest.cs",
+              "RelativeDocumentMoniker": "PROJECT11\\Models\\TriangleRequest.cs",
+              "ToolTip": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\TriangleRequest.cs",
+              "RelativeToolTip": "PROJECT11\\Models\\TriangleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:57:07.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\Coordinate.cs",
+              "RelativeDocumentMoniker": "PROJECT11\\Models\\Coordinate.cs",
+              "ToolTip": "C:\\Users\\SSD_Squad\\source\\repos\\PROJECT11\\PROJECT11\\Models\\Coordinate.cs",
+              "RelativeToolTip": "PROJECT11\\Models\\Coordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:44:36.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
