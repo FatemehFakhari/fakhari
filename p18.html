@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>محاسبه طول خط</title>
+</head>
+<body>
+    <h1>محاسبه طول یک خط</h1>
+
+    <script>
+        class Line {
+    constructor(x1, y1, x2, y2) {
+        this.x1 = x1;
+        this.y1 = y1;
+        this.x2 = x2;
+        this.y2 = y2;
+    }
+
+    length() {
+        return Math.sqrt((this.x2 - this.x1) ** 2 + (this.y2 - this.y1) ** 2);
+    }
+}
+
+// دریافت مقادیر از کاربر
+let x1 = parseFloat(prompt("مختصات X نقطه شروع:"));
+let y1 = parseFloat(prompt("مختصات Y نقطه شروع:"));
+let x2 = parseFloat(prompt("مختصات X نقطه پایان:"));
+let y2 = parseFloat(prompt("مختصات Y نقطه پایان:"));
+
+// ایجاد Instance
+let myLine = new Line(x1, y1, x2, y2);
+
+// نمایش طول خط
+alert("طول خط برابر است با: " + myLine.length());
+
+    </script>
+</body>
+</html>
